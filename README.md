@@ -1,4 +1,4 @@
 # -To-Do-List-Web-App
 Simple To-Do List 
 This To-Do List Web App is a front-end project built using HTML, CSS, and vanilla JavaScript. It provides a clean and user-friendly interface where users can add tasks via an input field and a "+" button or simply press the Enter key. Each task appears dynamically in the list with options to mark it as complete, edit the text, or delete it entirely. Completed tasks are visually distinguished with a strikethrough and faded color. The application ensures real-time interactivity, updating the UI instantly without any page reloads. Stylish and responsive design is achieved through CSS, featuring a modern layout, custom buttons, and smooth hover effects. This project showcases essential DOM manipulation and event handling skills using pure JavaScript.
-![image alt] (https://github.com/SreepriyaSamudrala/-To-Do-List-Web-App/blob/main/Screenshot%202025-05-27%20213125.png?raw=true)
+![image alt](https://github.com/SreepriyaSamudrala/-To-Do-List-Web-App/blob/main/Screenshot%202025-05-27%20213125.png?raw=true)
